@@ -1,0 +1,7 @@
+name: MobWars
+main: io.github.alpharlee.mobwars.MainMobWars
+version: 0.0.7
+commands:
+  mobwars:
+    description: Main command for Mob Wars
+    aliases: [mw]
